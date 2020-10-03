@@ -1,0 +1,9 @@
+{
+  "mongoURI": "mongodb+srv://Casavan:Love4Art@cluster0-sko4w.mongodb.net/devconnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "d1fb51e29330a82688ef",
+  "githubSecret": "cad4e5fede235b9a8d6631f293e4207bad58e0f5",
+  "githubToken": "5eacfb86ff668300c91e14789883c61d0e12493a",
+  "GOOGLE_CLIENT_ID": "24981024923-tg8ds9kjmc0r537u435pi19lokafsp89.apps.googleusercontent.com",
+  "GOOGLE_CLIENT_SECRET": "8JsMSHD8o3I-Ktfk7PFTV9U4"
+}
